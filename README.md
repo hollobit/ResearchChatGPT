@@ -16,7 +16,7 @@ Here are 50 examples of how ChatGPT can help your research.
 2. [Provide guidance on conducting comprehensive literature reviews](#Guidance-on-Conducting-Comprehensive-Literature-Reviews)
 3. [Suggest appropriate research methodologies and data collection techniques](#Suggesting-Appropriate-Research-Methodologies-and-Data-Collection-Techniques)
 4. [Help refine and narrow research questions and hypotheses](#Using-ChatGPT-to-Refine-and-Narrow-Research-Questions-and-Hypotheses)
-5. [Provide feedback on the clarity, coherence, and organization of writing](#Using-ChatGPT-Prompts-for-Providing-Feedback-on-Writing-Clarity,-Coherence,-and-Organization)
+5. [Provide feedback on the clarity, coherence, and organization of writing](#Using-ChatGPT-Prompts-for-Providing-Feedback-on-Writing-Clarity-Coherence-and-Organization)
 6. Offer suggestions for improving writing style and tone
 7. Help with developing introductions, conclusions, and thesis statements
 8. Generate topic sentences and main points for paragraphs
@@ -247,7 +247,7 @@ This prompt can help evaluate the organization of the paper. It can help identif
 
 This prompt can help identify any inconsistencies or contradictions in the paper. It can also help ensure that all the sources used in the paper are cited appropriately. Inconsistencies or contradictions can undermine the credibility of the paper, while incorrect or insufficient citations can lead to accusations of plagiarism. 
 
-Using ChatGPT prompts for providing feedback on writing clarity, coherence, and organization can help reviewers evaluate the quality of a research paper more objectively. It can also help authors identify areas for improvement and produce a more polished final product."
+Using ChatGPT prompts for providing feedback on writing clarity, coherence, and organization can help reviewers evaluate the quality of a research paper more objectively. It can also help authors identify areas for improvement and produce a more polished final product.
 
 ----
 Copyright (C) 2023, Jonghong Jeon 
