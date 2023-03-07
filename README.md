@@ -37,7 +37,7 @@ Here are 50 examples of how ChatGPT can help your research.
 23. [Assist with developing and refining research instruments (e.g. surveys, questionnaires)](#Using-ChatGPT-Prompts-to-Assist-with-Developing-and-Refining-Research-Instruments)
 24. [Suggest effective strategies for analyzing qualitative and quantitative data](#Suggest-effective-strategies-for-analyzing-qualitative-and-quantitative-data)
 25. [Provide guidance on data cleaning and preparation](#Guidance-on-Data-Cleaning-and-Preparation)
-26. Offer feedback on the relevance and significance of research findings
+26. [Offer feedback on the relevance and significance of research findings](#Using-ChatGPT-Prompts-to-Check-Feedback-on-the-Relevance-and-Significance-of-Research-Findings)
 27. Suggest strategies for identifying and addressing potential confounding variables in research
 28. Help with crafting compelling and engaging titles for research papers
 29. Provide feedback on the appropriateness of research questions and hypotheses
@@ -1068,6 +1068,28 @@ To clean and prepare this data, the following prompts can be used:
 By using these prompts, the researcher can ensure that the data is accurate, complete, and consistent, which will improve the quality of their analysis.
 
 ---- 
+
+## Using ChatGPT Prompts to Check Feedback on the Relevance and Significance of Research Findings
+
+When conducting research, it is important to gather feedback on the relevance and significance of the findings. One effective way to do this is by using ChatGPT prompts. In this article, we will explore the types of prompts that can be used to accomplish this task.
+
+### Example of Research Summary Text
+The research findings suggest that there is a significant correlation between regular exercise and improved mental health. The study involved 500 participants, all of whom engaged in some form of physical activity at least three times a week. The results showed that those who exercised regularly reported lower levels of stress, anxiety, and depression compared to those who did not exercise.
+
+### ChatGPT Prompts
+Here are some examples of prompts that can be used to check feedback from given summary text on the relevance and significance of the research findings:
+
+* What are your thoughts on the correlation between regular exercise and improved mental health from the given summary text?
+* Do you think the sample size of 500 participants is sufficient to draw valid conclusions from the given summary text?
+* How do you think these findings could impact public health policies related to physical activity from the given summary text?
+* Can you suggest any other factors that may influence the relationship between exercise and mental health from the given summary text?
+* Do you think these findings could be applicable to other populations, such as older adults or individuals with disabilities from the given summary text?
+* What implications do you think these findings have for mental health treatment and prevention from the given summary text?
+
+### Conclusion
+Using ChatGPT prompts can be a useful way to gather feedback on the relevance and significance of research findings. By asking targeted questions, researchers can gain valuable insights into how their findings are perceived and how they can be applied to real-world situations.
+
+----
 
 ----
 Copyright (C) 2023, Prompted by Jonghong Jeon, Text Drafted by ChatGPT
