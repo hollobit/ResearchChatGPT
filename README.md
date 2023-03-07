@@ -2,7 +2,7 @@
 
 Here are 50 detail examples of what ChatGPT can do for supporting research paper writing.
 
-1. [Generate topic ideas based on keywords or subject areas](#1.Generating-Topic-Ideas-through-ChatGPT-Prompt)
+1. [Generate topic ideas based on keywords or subject areas](#Generating-Topic-Ideas-through-ChatGPT-Prompt)
 2. Provide guidance on conducting comprehensive literature reviews
 3. Suggest appropriate research methodologies and data collection techniques
 4. Help refine and narrow research questions and hypotheses
@@ -53,7 +53,7 @@ Here are 50 detail examples of what ChatGPT can do for supporting research paper
 49. Offer guidance on developing and refining research proposals
 50. Provide recommendations for conducting ethical and rigorous research.
 
-## 1.Generating Topic Ideas through ChatGPT Prompt 
+## Generating Topic Ideas through ChatGPT Prompt 
 
 When it comes to writing a research paper, the first and foremost task is to find a topic that interests you and is relevant to your field of study. But sometimes, it can be challenging to come up with a research topic, especially if you're not sure where to start. That's where ChatGPT prompts come in handy. In this article, we'll explore how to use ChatGPT prompts to generate topic ideas based on keywords or subject areas.
 
