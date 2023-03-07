@@ -12,7 +12,7 @@ ChatGPT is an AI language model that can generate human-like responses to prompt
 
 Here are 50 examples of how ChatGPT can help your research. 
 
-1. [Generate topic ideas based on keywords or subject areas](#Generating-Topic-Ideas-through-ChatGPT-Prompt)
+1. [Generate topic ideas based on keywords or subject areas](#1-Generating-Topic-Ideas-through-ChatGPT-Prompt)
 2. [Provide guidance on conducting comprehensive literature reviews](#Guidance-on-Conducting-Comprehensive-Literature-Reviews)
 3. [Suggest appropriate research methodologies and data collection techniques](#Suggesting-Appropriate-Research-Methodologies-and-Data-Collection-Techniques)
 4. [Help refine and narrow research questions and hypotheses](#Using-ChatGPT-to-Refine-and-Narrow-Research-Questions-and-Hypotheses)
@@ -67,7 +67,7 @@ As always, if you have any suggestions or things you'd like to add, please let u
 
 ---
 
-## Generating Topic Ideas through ChatGPT Prompt 
+## 1. Generating Topic Ideas through ChatGPT Prompt 
 
 When it comes to writing a research paper, the first and foremost task is to find a topic that interests you and is relevant to your field of study. But sometimes, it can be challenging to come up with a research topic, especially if you're not sure where to start. That's where ChatGPT prompts come in handy. In this article, we'll explore how to use ChatGPT prompts to generate topic ideas based on keywords or subject areas.
 
