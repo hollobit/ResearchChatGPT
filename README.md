@@ -1,6 +1,6 @@
-# How Can I use ChatGPT in my research paperwork
+# How can I use ChatGPT in my research work
 
-There are many ways you can use ChatGPT in your research paper writing. In this repository, I've collected a list of 50 ways and examples of how you can use ChatGPT in your research paperwork. 
+There are many ways you can use ChatGPT in your research work. In this repository, I've collected a list of 50 ways and examples of how you can use ChatGPT in your research work. 
 
 ## What is ChatGPT?
 ChatGPT is an artificial intelligence language model that uses machine learning algorithms to generate human-like text. ChatGPT can be used to generate text in a variety of contexts, including answering questions, summarizing text, and generating new ideas.
