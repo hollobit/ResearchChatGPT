@@ -17,8 +17,8 @@ Here are 50 examples of how ChatGPT can help your research.
 3. [Suggest appropriate research methodologies and data collection techniques](#Suggesting-Appropriate-Research-Methodologies-and-Data-Collection-Techniques)
 4. [Help refine and narrow research questions and hypotheses](#Using-ChatGPT-to-Refine-and-Narrow-Research-Questions-and-Hypotheses)
 5. [Provide feedback on the clarity, coherence, and organization of writing](#Using-ChatGPT-Prompts-for-Providing-Feedback-on-Writing-Clarity-Coherence-and-Organization)
-6. Offer suggestions for improving writing style and tone
-7. Help with developing introductions, conclusions, and thesis statements
+6. [Offer suggestions for improving writing style and tone](#Suggestions-for-Improving-Writing-Style-and-Tone)
+7. [Help with developing introductions, conclusions, and thesis statements](#Using-ChatGPT-Prompts-to-Develop-Introductions-Conclusions-and-Thesis-Statements)
 8. Generate topic sentences and main points for paragraphs
 9. Assist with formatting and citation style
 10. Provide feedback on the validity and reliability of research findings
@@ -248,6 +248,95 @@ This prompt can help evaluate the organization of the paper. It can help identif
 This prompt can help identify any inconsistencies or contradictions in the paper. It can also help ensure that all the sources used in the paper are cited appropriately. Inconsistencies or contradictions can undermine the credibility of the paper, while incorrect or insufficient citations can lead to accusations of plagiarism. 
 
 Using ChatGPT prompts for providing feedback on writing clarity, coherence, and organization can help reviewers evaluate the quality of a research paper more objectively. It can also help authors identify areas for improvement and produce a more polished final product.
+
+----
+
+## Suggestions for Improving Writing Style and Tone
+
+Writing style and tone are crucial aspects that determine the overall quality of a research paper. It is important to ensure that the language used in the paper is clear, concise, and engaging to the readers. Here are some ChatGPT prompts that can be used to offer suggestions for improving writing style and tone in a research paper.
+
+### ChatGPT Prompts:
+
+1. What are some common writing mistakes that can be avoided in a research paper?
+2. How can the language used in the paper be made more engaging to the readers?
+3. What are some effective ways to vary sentence structure and avoid repetition in the paper?
+4. How can the tone of the paper be adjusted to suit the intended audience?
+5. What are some ways to ensure that the language used in the paper is accessible to all readers?
+
+### Example:
+
+Prompt: What are some common writing mistakes that can be avoided in a research paper?
+
+Response:
+
+There are several common writing mistakes that can be avoided in a research paper. These include:
+
+- Using passive voice: Using passive voice can make the language of the paper sound dull and unengaging. It is better to use active voice to make the writing more dynamic.
+- Overusing jargon: Using too much jargon can make the paper difficult to understand for readers who are not familiar with the field. It is important to strike a balance between using technical terms and making the language accessible to all readers.
+- Lack of clarity: Writing should be clear and concise to avoid confusion. Sentences should be well-structured and free from unnecessary words or phrases.
+- Repetition: Repetition can make the paper sound monotonous. It is important to vary sentence structure and use synonyms to avoid repetition.
+- Inconsistent tone: The tone of the paper should be consistent throughout. It is important to decide on the appropriate tone for the intended audience and maintain it throughout the paper.
+
+By avoiding these common writing mistakes, the language of the research paper can be made more engaging and accessible to all readers.
+
+----
+
+## Using ChatGPT Prompts to Develop Introductions, Conclusions, and Thesis Statements
+
+When writing a research paper, it is essential to have a strong introduction, a clear thesis statement, and a convincing conclusion. These elements are what set the tone for your paper and convey the main idea of your research. ChatGPT prompts can help you develop these elements by providing you with ideas and guiding questions to include in your writing.
+
+### Introductions
+
+Introductions are meant to grab the reader's attention, provide background information, and present the thesis statement. Here are some ChatGPT prompts that can help you develop a strong introduction:
+
+- What is the significance of your research topic?
+- What inspired you to research this topic?
+- What is the current state of research on your topic?
+- What is the problem or gap in knowledge that your research aims to address?
+
+Example: 
+
+Topic: The Effect of Social Media on Mental Health
+
+Introduction:
+
+Social media has become a ubiquitous part of modern life. It is a tool that is used for communication, socialization, and entertainment. However, the impact of social media on mental health has been a subject of debate in recent years. This research aims to explore the relationship between social media use and mental health and to identify the factors that contribute to this relationship. By understanding the impact of social media on mental health, we can develop strategies to mitigate the negative effects and promote positive mental health outcomes.
+
+### Thesis Statements
+
+The thesis statement is the core of your research paper. It presents the main idea of your research and guides the reader through your argument. Here are some ChatGPT prompts that can help you develop a clear and concise thesis statement:
+
+- What is the main argument of your research?
+- What is the significance of your research?
+- What is the scope of your research?
+- What is the problem that your research aims to solve?
+
+Example:
+
+Topic: The Effect of Social Media on Mental Health
+
+Thesis statement:
+
+This research aims to explore the relationship between social media use and mental health and to identify the factors that contribute to this relationship. By examining the impact of social media on mental health, we can develop effective strategies to promote positive mental health outcomes.
+
+### Conclusions
+
+Conclusions are meant to summarize the main points of your research and restate the thesis statement. They also provide a space for reflection and discussion of future research directions. Here are some ChatGPT prompts that can help you develop a strong conclusion:
+
+- What are the main findings of your research?
+- What are the implications of your research?
+- What are the limitations of your research?
+- What are the future research directions?
+
+Example:
+
+Topic: The Effect of Social Media on Mental Health
+
+Conclusion:
+
+In conclusion, this research has shown that social media use has a significant impact on mental health. The findings suggest that social media use is associated with increased risk of depression, anxiety, and other mental health problems. However, the relationship between social media use and mental health is complex, and there are many factors that contribute to this relationship. Future research should focus on identifying these factors and developing strategies to mitigate the negative effects of social media on mental health.
+
+---- 
 
 ----
 Copyright (C) 2023, Jonghong Jeon 
