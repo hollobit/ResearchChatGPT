@@ -33,7 +33,7 @@ Here are 50 examples of how ChatGPT can help your research.
 19. [Provide recommendations for organizing and structuring the paper](#Provide-recommendations-for-organizing-and-structuring-the-paper)
 20. [Assist with integrating primary and secondary sources](#Using-ChatGPT-Prompts-to-Assist-with-Integrating-Primary-and-Secondary-Sources-in-Research-Paper-Writing)
 21. [Help with identifying and avoiding bias in research](#Using-ChatGPT-to-Help-with-Identifying-and-Avoiding-Bias-in-Research)
-22. Provide guidance on selecting appropriate research participants or samples
+22. [Provide guidance on selecting appropriate research participants or samples](#Selecting-Appropriate-Research-Participants-or-Samples)
 23. Assist with developing and refining research instruments (e.g. surveys, questionnaires)
 24. Suggest effective strategies for analyzing qualitative and quantitative data
 25. Provide guidance on data cleaning and preparation
@@ -903,6 +903,42 @@ Suppose a researcher is conducting a study on the effectiveness of a new teachin
 Bias in research can have serious consequences, leading to inaccurate findings and conclusions. ChatGPT can be a useful tool for researchers to identify and avoid bias in their research. By generating prompts related to common biases and strategies to avoid them, researchers can conduct fair and objective research.
 
 ----
+
+## Selecting Appropriate Research Participants or Samples
+
+Research design is the backbone of any research study. It is crucial to select the right participants or sample for research to gain valid and reliable results. The following ChatGPT prompts can be used to check whether the research study has selected appropriate research participants or samples:
+
+### ChatGPT Prompt 1: What is the sample size of the research study, and how was it determined?
+
+The sample size of the research study should be appropriate to achieve the research objectives. The size of the sample depends on the following factors:
+
+- The research design
+- The level of significance (alpha)
+- The desired power of the test
+- The effect size
+- The sampling method
+
+The sample size should be large enough to achieve the desired power of the test and small enough to reduce the cost and time of the research. The sample size can be determined by using statistical formulas, power analysis, or sampling tables.
+
+Example: The research study aims to investigate the effect of a new teaching method on the academic performance of high school students. The sample size of the study is determined by using power analysis. The level of significance is set at 0.05, the power of the test is set at 0.8, and the effect size is set at 0.5. The sample size is calculated to be 64 students.
+
+### ChatGPT Prompt 2: Are the research participants representative of the population under study?
+
+The research participants should be representative of the population under study to generalize the research findings. The representativeness of the sample depends on the sampling method and the sampling frame. The sampling method should be unbiased and random to avoid selection bias. The sampling frame should include all the elements of the population under study.
+
+Example: The research study aims to investigate the attitudes of university students towards online learning. The sample is selected by using stratified random sampling. The sampling frame includes all the students enrolled in the university. The sample is stratified based on the faculty, and the participants are selected randomly from each stratum. The research participants are representative of the university population.
+
+### ChatGPT Prompt 3: Are the research participants willing and able to participate in the research study?
+
+The research participants should be willing and able to participate in the research study to avoid non-response bias. The willingness of the participants can be ensured by obtaining informed consent and providing incentives. The ability of the participants to participate can be ensured by selecting participants who meet the eligibility criteria.
+
+Example: The research study aims to investigate the health-related quality of life of cancer patients who are receiving chemotherapy. The sample is selected from the cancer registry of a hospital. The eligibility criteria include age, cancer type, and chemotherapy regimen. The participants are contacted by phone, and informed consent is obtained from them. The participants who are willing and able to participate are included in the study. 
+
+### Conclusion
+
+Selecting appropriate research participants or samples is crucial to achieving valid and reliable research results. The above ChatGPT prompts can be used to check whether the research study has selected appropriate research participants or samples. By considering these prompts, researchers can ensure that their research is rigorous and meaningful.
+
+---- 
 
 ----
 Copyright (C) 2023, Prompted by Jonghong Jeon, Text Drafted by ChatGPT
