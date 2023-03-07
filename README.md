@@ -117,7 +117,7 @@ In conclusion, using ChatGPT prompts can be an effective way to generate researc
 
 Conducting a comprehensive literature review is an essential part of any research paper writing process. It helps researchers to understand the current state of knowledge, identify research gaps, and develop a theoretical framework for their study. The following ChatGPT prompts can be used to achieve this task:
 
-## Prompt 1: Identify Relevant Keywords
+### Prompt 1: Identify Relevant Keywords
 
 The first step in conducting a comprehensive literature review is to identify relevant keywords that are related to your research topic. This prompt can be used to generate a list of potential keywords:
 
@@ -127,7 +127,7 @@ The first step in conducting a comprehensive literature review is to identify re
 
 Example: If you are researching the impact of social media on mental health, the keywords could be social media, mental health, social networking sites, Facebook, Twitter, Instagram, depression, anxiety, etc.
 
-## Prompt 2: Search for Relevant Literature
+### Prompt 2: Search for Relevant Literature
 
 Once you have identified the keywords, the next step is to search for relevant literature using various databases such as Google Scholar, Scopus, PubMed, etc. This prompt can be used to refine your search strategy:
 
@@ -137,7 +137,7 @@ Once you have identified the keywords, the next step is to search for relevant l
 
 Example: If you want to search for literature on the impact of social media on mental health, you can use the following search strategy: ""social media AND mental health"" OR ""social networking sites AND depression"" OR ""Facebook AND anxiety.""
 
-## Prompt 3: Evaluate the Quality of Literature
+### Prompt 3: Evaluate the Quality of Literature
 
 It is essential to evaluate the quality of the literature before including it in your review. This prompt can be used to develop a systematic approach to evaluate the literature:
 
@@ -147,7 +147,7 @@ It is essential to evaluate the quality of the literature before including it in
 
 Example: When evaluating the quality of literature on the impact of social media on mental health, you can use the following criteria: sample size, research design, measurement tools, statistical analysis, etc.
 
-## Prompt 4: Synthesize and Summarize the Literature
+### Prompt 4: Synthesize and Summarize the Literature
 
 The final step in conducting a comprehensive literature review is to synthesize and summarize the literature. This prompt can be used to develop a framework for synthesizing and summarizing the literature:
 
@@ -165,7 +165,7 @@ In conclusion, conducting a comprehensive literature review requires a systemati
 
 When it comes to writing a research paper, selecting the right research methodology and data collection techniques is crucial. The following ChatGPT prompts can help you in achieving this task:
 
-## ChatGPT Prompt 1: ""What are the best research methodologies for different types of research questions?""
+### ChatGPT Prompt 1: ""What are the best research methodologies for different types of research questions?""
 
 Research methodologies are the procedures and techniques used to conduct research. Depending on the research question, different methodologies can be applied. Here are some examples:
 
@@ -173,7 +173,7 @@ Research methodologies are the procedures and techniques used to conduct researc
 - **Quantitative research:** This methodology is used to measure and quantify variables through statistical analysis. Quantitative research is best suited for research questions that seek to establish cause-and-effect relationships, test hypotheses, or generalize findings to a larger population. Examples of quantitative methods include surveys, experiments, and observational studies.
 - **Mixed-methods research:** This methodology combines both qualitative and quantitative methods to provide a more comprehensive understanding of a research question. Mixed-methods research is best suited for research questions that require both in-depth exploration and empirical validation. Examples of mixed-methods research include sequential explanatory design, concurrent triangulation design, and convergent design.
 
-## ChatGPT Prompt 2: ""What are the best data collection techniques for different types of data?""
+### ChatGPT Prompt 2: ""What are the best data collection techniques for different types of data?""
 
 Data collection techniques are the methods used to collect and record data. Depending on the type of data, different techniques can be applied. Here are some examples:
 
