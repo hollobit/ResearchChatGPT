@@ -36,7 +36,7 @@ Here are 50 examples of how ChatGPT can help your research.
 22. [Provide guidance on selecting appropriate research participants or samples](#Selecting-Appropriate-Research-Participants-or-Samples)
 23. [Assist with developing and refining research instruments (e.g. surveys, questionnaires)](#Using-ChatGPT-Prompts-to-Assist-with-Developing-and-Refining-Research-Instruments)
 24. [Suggest effective strategies for analyzing qualitative and quantitative data](#Suggest-effective-strategies-for-analyzing-qualitative-and-quantitative-data)
-25. Provide guidance on data cleaning and preparation
+25. [Provide guidance on data cleaning and preparation](#Guidance-on-Data-Cleaning-and-Preparation)
 26. Offer feedback on the relevance and significance of research findings
 27. Suggest strategies for identifying and addressing potential confounding variables in research
 28. Help with crafting compelling and engaging titles for research papers
@@ -1009,6 +1009,65 @@ Here are some examples of ChatGPT prompts that can be used to achieve the missio
 - What are some effective ways to visualize quantitative data?"
 
 ----
+
+## Guidance on Data Cleaning and Preparation
+
+Data cleaning and preparation is a crucial step in the research paper writing process. It involves transforming raw data into a format that is suitable for analysis. The goal of this process is to ensure that the data is accurate, complete, and consistent. In this paper, we will discuss the different types of ChatGPT prompts that can be used to achieve this mission.
+
+### Types of ChatGPT Prompts
+
+#### 1. Prompt for identifying missing values
+
+One of the most common issues in data cleaning is missing values. These values can be identified using the following prompt:
+
+`List all the missing values in the dataset.`
+
+#### 2. Prompt for handling missing values
+
+Once missing values have been identified, they need to be handled appropriately. The following prompt can be used to guide this process:
+
+`What method should be used to handle missing values?`
+
+#### 3. Prompt for identifying outliers
+
+Outliers are data points that are significantly different from other data points in the dataset. They can be identified using the following prompt:
+
+`Identify all the outliers in the dataset.`
+
+#### 4. Prompt for handling outliers
+
+Outliers can be handled in different ways depending on the nature of the data. The following prompt can be used to guide this process:
+
+`What method should be used to handle outliers?`
+
+#### 5. Prompt for identifying duplicates
+
+Duplicates can occur when the same data is recorded multiple times in the dataset. They can be identified using the following prompt:
+
+`Identify all the duplicate data in the dataset.`
+
+#### 6. Prompt for handling duplicates
+
+Duplicate data can be handled in different ways depending on the nature of the data. The following prompt can be used to guide this process:
+
+`What method should be used to handle duplicate data?`
+
+### Example
+
+Consider a research paper that analyzes the relationship between a student's GPA and their attendance. The dataset used in this study contains the following variables: student ID, GPA, attendance, gender, and age.
+
+To clean and prepare this data, the following prompts can be used:
+
+1. Prompt for identifying missing values: `List all the missing values in the dataset.`
+2. Prompt for handling missing values: `What method should be used to handle missing values?`
+3. Prompt for identifying outliers: `Identify all the outliers in the dataset.`
+4. Prompt for handling outliers: `What method should be used to handle outliers?`
+5. Prompt for identifying duplicates: `Identify all the duplicate data in the dataset.`
+6. Prompt for handling duplicates: `What method should be used to handle duplicate data?`
+
+By using these prompts, the researcher can ensure that the data is accurate, complete, and consistent, which will improve the quality of their analysis.
+
+---- 
 
 ----
 Copyright (C) 2023, Prompted by Jonghong Jeon, Text Drafted by ChatGPT
