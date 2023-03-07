@@ -29,8 +29,7 @@ Here are 50 examples of how ChatGPT can help your research.
 15. [Assist with developing tables, graphs, and other visual aids](#ChatGPT-Prompt-for-Developing-Tables-Graphs-and-Other-Visual-Aids-in-Research-Paper-Writing)
 16. [Provide feedback on the structure and clarity of arguments](#Using-ChatGPT-to-Achieve-Better-Research-Paper-Writing-Providing-Feedback-on-Structure-and-Clarity-of-Arguments)
 17. [Suggest strategies for improving the coherence and flow of writing](#Strategies-for-Improving-Coherence-and-Flow-in-Writing)
-18. [Help with proofreading and editing for grammar, punctuation, and spelling errors](### Using-ChatGPT-for-Proofreading-and-Editing-Research-Papers
-)
+18. [Help with proofreading and editing for grammar, punctuation, and spelling errors](#Using-ChatGPT-for-Proofreading-and-Editing-Research-Papers)
 19. [Provide recommendations for organizing and structuring the paper](#Provide-recommendations-for-organizing-and-structuring-the-paper)
 20. [Assist with integrating primary and secondary sources](#Using-ChatGPT-Prompts-to-Assist-with-Integrating-Primary-and-Secondary-Sources-in-Research-Paper-Writing)
 21. Help with identifying and avoiding bias in research
@@ -873,4 +872,4 @@ In conclusion, using ChatGPT prompts can be an effective way to assist with inte
 ----
 
 ----
-Copyright (C) 2023, Organized by Jonghong Jeon, Drafted by ChatGPT
+Copyright (C) 2023, Prompted by Jonghong Jeon, Text Drafted by ChatGPT
