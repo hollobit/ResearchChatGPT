@@ -1,4 +1,8 @@
-# ResearchChatGPT
+# How Can I use ChatGPT in my research paperwork
+
+There are many ways you can use ChatGPT in your research paper writing. In this repository, I've collected a list of 50 ways and examples of how you can use ChatGPT in your research paperwork. 
+
+As always, if you have any suggestions or things you'd like to add, please let us know. 
 
 Here are 50 detail examples of what ChatGPT can do for supporting research paper writing.
 
