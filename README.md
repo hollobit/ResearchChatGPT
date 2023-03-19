@@ -1165,11 +1165,11 @@ In research paper writing, it is crucial to have appropriate research questions 
 ### Preparing to get feedback
 
 To use ChatGPT for providing feedback on the appropriateness of research questions and hypotheses, follow these steps:
-1. Prepare the research material: Collect the research abstract, research questions, and hypotheses you want to evaluate. Make sure the material is clearly presented and accessible for input.
-2. Formulate a clear prompt: Create a concise and explicit prompt that instructs ChatGPT to provide feedback on the research questions and hypotheses. For example: "Please evaluate the following research questions and hypotheses for their appropriateness, relevance, clarity, and alignment with the study's objectives. Offer suggestions for improvement, if necessary. Here are the research abstract, questions, and hypotheses: ..." Then, insert the research abstract, questions, and hypotheses into the prompt.
-3. Input the prompt into ChatGPT: Copy and paste your prompt into ChatGPT, and submit it for processing.
-4. Review the response: Carefully review the generated response to ensure it addresses the appropriateness, relevance, clarity, and alignment of the research questions and hypotheses. Check whether the feedback is constructive and provides useful suggestions for improvement.
-5. Refine the prompt, if necessary: If the initial response does not fully address your needs or requires more specific feedback, refine the prompt to better direct ChatGPT toward the desired outcome. You may need to do this iteratively to get the most helpful feedback.
+1. **Prepare the research material:** Collect the research abstract, research questions, and hypotheses you want to evaluate. Make sure the material is clearly presented and accessible for input.
+2. **Formulate a clear prompt:** Create a concise and explicit prompt that instructs ChatGPT to provide feedback on the research questions and hypotheses. For example: "Please evaluate the following research questions and hypotheses for their appropriateness, relevance, clarity, and alignment with the study's objectives. Offer suggestions for improvement, if necessary. Here are the research abstract, questions, and hypotheses: ..." Then, insert the research abstract, questions, and hypotheses into the prompt.
+3. **Input the prompt into ChatGPT:** Copy and paste your prompt into ChatGPT, and submit it for processing.
+4. **Review the response:** Carefully review the generated response to ensure it addresses the appropriateness, relevance, clarity, and alignment of the research questions and hypotheses. Check whether the feedback is constructive and provides useful suggestions for improvement.
+5. **Refine the prompt, if necessary:** If the initial response does not fully address your needs or requires more specific feedback, refine the prompt to better direct ChatGPT toward the desired outcome. You may need to do this iteratively to get the most helpful feedback.
 
 ### Example 1: Review Research Questions and Hypotheses
 
