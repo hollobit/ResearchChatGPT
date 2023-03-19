@@ -1173,7 +1173,7 @@ To use ChatGPT for providing feedback on the appropriateness of research questio
 
 ### Example 1: Review Research Questions and Hypotheses
 
-'''markdown
+```markdown
 **Research Abstract**
 _[Insert a brief summary of the research paper, including its objectives, methods, and key findings.]_
 
@@ -1184,18 +1184,18 @@ _[Insert a brief summary of the research paper, including its objectives, method
 - _[List the hypotheses from the study.]_
 
 Using the provided research abstract, questions, and hypotheses, please provide feedback on the appropriateness of the research questions and hypotheses. Evaluate their relevance, clarity, and alignment with the study's objectives. Offer suggestions for improvement, if necessary.
-'''
+```
 
 ### Example 2: Generate research question and hypotheses and Request feedback  
 
-'''markdown
+```markdown
 **Research Abstract**
 _This study explores the impact of remote work on employee productivity and well-being during the COVID-19 pandemic. It employs a mixed-methods approach, including surveys and interviews, to gather data from employees working remotely across various industries. The findings suggest that remote work has both positive and negative effects on productivity and well-being, with factors such as effective communication and work-life balance playing crucial roles._
 
 Using the provided research abstract, list up the research questions and Hypotheses.
 
 Using the provided research abstract, questions, and hypotheses, please provide feedback on the appropriateness of the research questions and hypotheses. Evaluate their relevance, clarity, and alignment with the study's objectives. Offer suggestions for improvement, if necessary.
-'''
+```
 
 ### Get Additional Feedbacks 
 
