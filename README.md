@@ -1199,7 +1199,7 @@ Using the provided research abstract, questions, and hypotheses, please provide 
 
 ### Get Additional Feedbacks 
 
-Researchers can input their research questions and hypotheses into ChatGPT and receive feedback on the appropriateness of their questions and hypotheses. Here are some examples of prompts that can be used for feedback on research questions and hypotheses:
+Researchers can additionally input their questions and comments into ChatGPT and receive feedback on the appropriateness of their questions and hypotheses. Here are some examples of prompts that can be used for feedback on research questions and hypotheses:
 
 ### Prompts 1: Check the hypotheses' relevance to the research question
 - Can you explain what you mean by research question using research abstract? 
