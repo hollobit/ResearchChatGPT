@@ -42,7 +42,7 @@ Here are 50 examples of how ChatGPT can help your research.
 28. [Help with crafting compelling and engaging titles for research papers](#28-How-ChatGPT-Prompts-can-Help-with-Crafting-Compelling-and-Engaging-Titles-for-Research-Papers)
 29. [Provide feedback on the appropriateness of research questions and hypotheses](#29-Using-ChatGPT-for-Feedback-on-Research-Questions-and-Hypotheses)
 30. [Offer suggestions for developing effective and relevant research questions](#30-Suggestions-for-Developing-Effective-and-Relevant-Research-Questions)
-31. Provide guidance on selecting appropriate research designs
+31. [Provide guidance on selecting appropriate research designs](#31-Guidance-on-Selecting-Appropriate-Research-Designs)
 32. Assist with developing and implementing research studies
 33. Suggest effective strategies for collecting and analyzing data
 34. Assist with identifying and avoiding common research pitfalls
@@ -1197,6 +1197,23 @@ Using the provided research abstract, list up the research questions and Hypothe
 Using the provided research abstract, questions, and hypotheses, please provide feedback on the appropriateness of the research questions and hypotheses. Evaluate their relevance, clarity, and alignment with the study's objectives. Offer suggestions for improvement, if necessary.
 ```
 
+### Types of ChatGPT Prompts:
+
+1. Clarification Prompt:
+This type of prompt is used to seek clarification on unclear or ambiguous research questions and hypotheses. It is especially useful when the research questions and hypotheses are too broad or vague. For example, "Could you please clarify what you mean by 'effective communication' in your research question?"
+
+2. Specificity Prompt:
+This type of prompt is used to encourage researchers to make their research questions and hypotheses more specific and focused. It is particularly useful when the research questions and hypotheses are too general or broad. For example, "Could you please provide more specific details on the age range of the participants in your study?"
+
+3. Relevance Prompt:
+This type of prompt is used to assess the relevance of research questions and hypotheses to the research topic. It is especially useful when the research questions and hypotheses are not directly related to the research topic. For example, "How does your research question relate to the main research topic?"
+
+4. Testability Prompt:
+This type of prompt is used to check the testability of research questions and hypotheses. It is particularly useful when the research questions and hypotheses are too vague or general. For example, "Can you provide a testable hypothesis for your research question?"
+
+5. Significance Prompt:
+This type of prompt is used to assess the significance of research questions and hypotheses. It is especially useful when the research questions and hypotheses do not contribute significantly to the existing body of knowledge. For example, "How does your research question contribute to the existing body of knowledge?"
+
 ### Get Additional Feedbacks 
 
 Researchers can additionally input their questions and comments into ChatGPT and receive feedback on the appropriateness of their questions and hypotheses. Here are some examples of prompts that can be used for feedback on research questions and hypotheses:
@@ -1276,6 +1293,68 @@ Research Abstract:
 Using the provided research abstract, please offer suggestions for developing effective and relevant research questions, taking into account the study's objectives, scope, and context. Include bullet points to list the suggestions, and provide a brief explanation for each.
 ```
 ---- 
+## 31. Guidance on Selecting Appropriate Research Designs
+
+Research is an essential aspect of research life, and it requires a proper plan to conduct it successfully. One of the critical components of research planning is selecting an appropriate research design. The research design is the blueprint for conducting the research, and it outlines the procedures, methods, and techniques that will be used to gather and analyze data. This guidance will provide the necessary information required to select appropriate research designs.
+
+### Understanding the Research Question
+
+Before selecting a research design, you need to understand the research question. The research question will determine the type of research design you will use. Ask yourself the following questions:
+
+- What is the research question?
+- What is the purpose of the research?
+- What are the expected outcomes of the research?
+
+### Types of Research Designs
+
+There are different types of research designs, and each design has its advantages and disadvantages. Consider the following research designs:
+
+#### Experimental Research Design
+
+Experimental research design is used to investigate the cause and effect relationship between variables. It involves manipulating the independent variable and observing the effect on the dependent variable.
+
+#### Quasi-Experimental Research Design
+
+Quasi-experimental research design is similar to experimental research design, but it lacks randomization. It is used when it is not possible to randomize participants.
+
+#### Correlational Research Design
+
+Correlational research design is used to investigate the relationship between two or more variables. It does not involve manipulation of variables.
+
+#### Survey Research Design
+
+Survey research design is used to collect data from a large sample of people. It involves using questionnaires or interviews to gather data.
+
+#### Case Study Research Design
+
+Case study research design is used to investigate a particular case or phenomenon. It involves in-depth analysis of a particular case.
+
+### Example of Prompt
+
+```markdown
+Research Abstract:
+Insert the research abstract here
+
+Using the provided research abstract, please provide guidance on selecting appropriate research designs for the study, taking into account the study's objectives, research questions, and the nature of the data needed. Include bullet points to list the suggested research designs and provide a brief explanation for each.
+```
+
+### Example and result
+
+```markdown
+Research Abstract
+This study investigates the relationship between social media use and self-esteem among teenagers. It uses a mixed-methods approach, including surveys and interviews, to gather data from a diverse sample of teenagers aged 13-19. The findings aim to enhance our understanding of the potential effects of social media on the psychological well-being of young people.
+
+Guidance on selecting appropriate research designs:
+* Cross-sectional design: Use a cross-sectional design to examine the relationship between social media use and self-esteem at a single point in time.
+    * Explanation: This design can provide a snapshot of the current state of the relationship and identify patterns or trends among the target population.
+* Longitudinal design: Conduct a longitudinal study to track changes in social media use and self-esteem over time, which may reveal causal relationships or the direction of the effects.
+    * Explanation: This design allows for the observation of changes and trends over time, which can provide insights into the long-term impacts of social media use on self-esteem.
+* Experimental design: Implement an experimental design to establish causal relationships between social media use and self-esteem by manipulating specific variables or interventions.
+    * Explanation: This design can provide a high level of control over the variables, enabling researchers to draw causal inferences and test the effectiveness of interventions.
+* Mixed-methods approach: Utilize a mixed-methods approach to combine quantitative data from surveys with qualitative data from interviews, providing a more comprehensive understanding of the relationship between social media use and self-esteem.
+    * Explanation: This design allows for the collection of both numerical and narrative data, which can enrich the findings and offer a deeper understanding of the phenomenon under study.
+```
+----
 
 ----
 Copyright (C) 2023, Prompted by Jonghong Jeon, Text Drafted by ChatGPT
