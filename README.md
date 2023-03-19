@@ -41,7 +41,7 @@ Here are 50 examples of how ChatGPT can help your research.
 27. [Suggest strategies for identifying and addressing potential confounding variables in research](#27-Strategies-for-Identifying-and-Addressing-Potential-Confounding-Variables-in-Research)
 28. [Help with crafting compelling and engaging titles for research papers](#28-How-ChatGPT-Prompts-can-Help-with-Crafting-Compelling-and-Engaging-Titles-for-Research-Papers)
 29. [Provide feedback on the appropriateness of research questions and hypotheses](#29-Using-ChatGPT-for-Feedback-on-Research-Questions-and-Hypotheses)
-30. Offer suggestions for developing effective and relevant research questions
+30. [Offer suggestions for developing effective and relevant research questions] (#30-Suggestions-for-Developing-Effective-and-Relevant-Research-Questions)
 31. Provide guidance on selecting appropriate research designs
 32. Assist with developing and implementing research studies
 33. Suggest effective strategies for collecting and analyzing data
@@ -1223,6 +1223,59 @@ Researchers can additionally input their questions and comments into ChatGPT and
 - "What are the gaps in my research question/hypothesis?"
 
 ----
+
+## 30. Suggestions for Developing Effective and Relevant Research Questions
+
+Research questions are the foundation of any research paper. They guide the research process, and the quality of the research questions directly affects the quality of the research. Therefore, it is essential to develop effective and relevant research questions to ensure that your research is meaningful and valuable. In this article, we will provide you with some suggestions for developing effective and relevant research questions.
+
+### Suggestions
+
+#### 1. Choose a Topic of Interest
+
+The first step in developing effective and relevant research questions is to choose a topic that you are interested in. It is easier to develop research questions about a topic that you are passionate about. Also, choosing a topic that you are familiar with will help you to develop better research questions.
+
+For example, if you are interested in the effects of social media on mental health, you can develop research questions such as:
+
+- What is the relationship between social media use and anxiety?
+- How does social media use affect depression among teenagers?
+
+#### 2. Define the Research Problem
+
+Once you have chosen a topic, the next step is to define the research problem. The research problem is the gap or the knowledge that you want to explore in your research. Defining the research problem will help you to develop research questions that are relevant and meaningful.
+
+For example, if your research problem is the lack of understanding of the impact of social media on mental health, you can develop research questions such as:
+
+- What are the positive and negative effects of social media on mental health?
+- How can social media be used to promote mental health?
+
+#### 3. Use a Question Stem
+
+Using a question stem can help you to develop effective and relevant research questions. A question stem is a phrase or a sentence that starts with words such as "what," "how," "why," or "when." Using a question stem will help you to focus on a specific aspect of your research problem.
+
+For example, if your research problem is the impact of social media on mental health, you can use the following question stems to develop research questions:
+
+- What are the effects of social media on mental health?
+- How does social media use affect mental health?
+- Why do people use social media, and what are the effects on mental health?
+
+#### 4. Consider the Research Design
+
+The research design is the plan or the strategy that you will use to conduct your research. The research design will affect the research questions that you can develop. Therefore, it is essential to consider the research design when developing research questions.
+
+For example, if you are planning to conduct a survey to explore the impact of social media on mental health, you can develop research questions such as:
+
+- What is the prevalence of social media use among teenagers, and how does it affect their mental health?
+- How do different social media platforms affect mental health differently?
+
+### Example of prompt use
+
+```markdown
+Research Abstract:
+[Insert the research abstract here]
+
+Using the provided research abstract, please offer suggestions for developing effective and relevant research questions, taking into account the study's objectives, scope, and context. Include bullet points to list the suggestions, and provide a brief explanation for each.
+```
+---- 
 
 ----
 Copyright (C) 2023, Prompted by Jonghong Jeon, Text Drafted by ChatGPT
